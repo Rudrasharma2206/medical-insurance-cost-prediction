@@ -8,7 +8,11 @@ A machine learning web application that predicts medical insurance charges based
 
 ## 📸 Screenshots
 
-> Add screenshots of your Streamlit app here after deployment
+### Input Form
+![App Default](screenshots/app-default.png)
+
+### Prediction Result
+![App Prediction](screenshots/app-prediction.png)
 
 ---
 
