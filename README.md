@@ -141,7 +141,9 @@ seaborn
 
 **Rudra Sharma**
 - GitHub: [@Rudrasharma2206](https://github.com/Rudrasharma2206)
-- LinkedIn: [Add your LinkedIn here]
+- LinkedIn: [www.linkedin.com/in/
+rudra-sharma-336a07322
+]
 
 ---
 
