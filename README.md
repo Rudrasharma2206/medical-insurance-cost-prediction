@@ -12,7 +12,7 @@ A machine learning web application that predicts medical insurance charges based
 ![App Default](screenshots/app-default.png)
 
 ### Prediction Result
-![App Prediction](screenshots/app-prediction.png)
+![App Prediction](screenshots/app-predicted.png)
 
 ---
 
