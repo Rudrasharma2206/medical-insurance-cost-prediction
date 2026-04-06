@@ -2,7 +2,6 @@
 
 A machine learning web application that predicts medical insurance charges based on personal health and demographic factors.
 
-🔗 **Live Demo:** http://localhost:8501
 
 ---
 
